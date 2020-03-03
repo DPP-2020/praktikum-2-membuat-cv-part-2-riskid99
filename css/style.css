@@ -1,0 +1,14 @@
+<style>
+p.ex2 {display: inline;}
+.center {
+  margin: auto;
+  text-align: center;
+  width: 60%;
+  padding: 10px;
+}
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
